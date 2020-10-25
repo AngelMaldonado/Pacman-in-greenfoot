@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Map
+comment0.text=\r\n\ Map\ is\ a\ subclass\ of\ World\r\n\ Map\ has\ all\ the\ methods\ of\ World\ because\ "extends"\ World\r\n\ Its\ function\ is\ to\ 'rename'\ World\ as\ Map\ and\ add\ the\ attribute\ of\ Hud\r\n\ \r\n\ @author\ Ivan\ Uresti\r\n\ @contributor\ Angel\ Maldonado\r\n\ @version\ 10/22/20\r\n
+comment1.params=
+comment1.target=Map()
+comment1.text=\r\n\ Constructor\ of\ Map\ class\r\n
+numComments=2

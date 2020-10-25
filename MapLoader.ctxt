@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MapLoader
+comment0.text=\r\n\ MapLoader\ is\ an\ interface\ that\ allows\ to\ instantiate\ an\ object\ of\ Map\ class\ with\ certain\ parameters,\ such\ as\r\n\ a\ file\ that\ contains\ the\ width\ and\ height,\ colors,\ etc.\r\n\ To\ make\ this\ possible,\ in\ the\ implementation\ of\ loadMap\ method\ when\ the\ object\ Map\ is\ created\ add\ the\ necessary\ parameters\ to\ the\r\n\ constructor\ of\ Map\ to\ get\ the\ file\ and\ create\ the\ Map\ with\ the\ attributes\ that\ this\ file\ contains\ (it\ can\ be\ added\ a\ second\ constructor\ with\r\n\ this\ parameters).\r\n\ \r\n\ NOTE\:\ This\ is\ a\ general\ interface\ (it\ can\ be\ implemented\ at\ any\ class\ that\ will\ need\ to\ instantiate/load\ a\ map\r\n\ \r\n\ @author\ Ivan\ Uresti\r\n\ @contributor\ Angel\ Maldonado\r\n\ @version\ 10/22/20\r\n
+comment1.params=
+comment1.target=Map\ loadMap()
+comment1.text=\r\n\ Loads\ all\ the\ graphic\ elements\ of\ the\ map\ and\ returns\ the\ final\ map\r\n
+numComments=2

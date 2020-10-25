@@ -1,0 +1,15 @@
+import greenfoot.*;
+/**
+ * Write a description of class Cherry here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Cherry extends Fruit
+{
+    private static final GreenfootImage image = new GreenfootImage("images/cherries.png");
+    
+    public Cherry(){
+        setImage(image);
+    }
+}

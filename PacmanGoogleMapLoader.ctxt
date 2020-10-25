@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PacmanGoogleMapLoader
+comment0.text=\r\n\ PacmanGoogleMapLoader\ is\ to\ instantiate/load\ the\ main\ game\ map\ in\ which\ the\ user\ will\ play.\r\n\ It\ implements\ the\ StaticMapLoaderInterface\ which\ contains\ the\ methods\ that\ allows\ this\ class\ to\r\n\ load\ a\ map\ with\ all\ the\ elements\ that\ it\ needs\ to\ have,\ such\ as\ walls,\ pellets,\ small\ points,\ characters,\ and\r\n\ also,\ if\ is\ wished,\ get\ the\ parameters\ to\ load\ the\ map\ from\ a\ file.\r\n\ \r\n\ @author\ Ivan\ Uresti\r\n\ @contributor\ Angel\ Maldonado\r\n\ @version\ 10/22/20\r\n
+comment1.params=
+comment1.target=Map\ loadMap()
+comment1.text=\r\n\ Implementation\ of\ loadMap\ method\ from\ interface\ StaticMapLoader-MapLoader\r\n
+comment2.params=map
+comment2.target=void\ addWalls(Map)
+comment2.text=\r\n\ Add\ all\ the\ walls\ that\ will\ contain\ the\ final\ map\r\n
+comment3.params=map
+comment3.target=void\ addSmallItems(Map)
+comment3.text=\r\n\ Add\ all\ the\ small\ items\ that\ will\ contain\ the\ final\ map\r\n
+comment4.params=map
+comment4.target=void\ addPowerItems(Map)
+comment4.text=\r\n\ Add\ all\ the\ power\ items\ that\ will\ contain\ the\ final\ map\r\n
+comment5.params=map
+comment5.target=void\ addFruits(Map)
+comment5.text=\r\n\ Add\ the\ fruits\ that\ will\ contain\ the\ final\ map\r\n
+numComments=6
